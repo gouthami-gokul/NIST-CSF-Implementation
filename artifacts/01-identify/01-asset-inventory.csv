@@ -1,0 +1,6 @@
+Asset Name,Asset Type,Owner,Criticality,Description
+Customer Database,Data,IT,High,Stores customer account and transaction data
+Web Application,Application,Engineering,High,Customer-facing SaaS platform
+Admin Portal,Application,Engineering,High,Used by support and operations staff
+Employee Laptops,Hardware,IT,Medium,Used by employees for business operations
+Cloud Infrastructure,Infrastructure,IT,High,Hosts all production systems
